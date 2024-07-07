@@ -43,7 +43,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'sharingan.urls'
+ROOT_URLCONF = 'zsnorte.urls'
 
 TEMPLATES = [
     {
