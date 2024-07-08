@@ -1,0 +1,28 @@
+.counter {
+    font-size: 2.5em;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.counter i {
+    margin-bottom: 10px;
+}
+
+.text-zona {
+    color: #007bff; /* Cambia el color según sea necesario */
+}
+
+.card-zona {
+    margin: 10px;
+}
+
+.count-title {
+    font-size: 2em;
+    margin: 10px 0;
+}
+
+.count-text {
+    font-size: 1rem;
+}
